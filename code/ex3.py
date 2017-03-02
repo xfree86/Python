@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 
+# 运算符的用法
+
 print "I will now count my chickens:"
 print u"我现在数我的鸡："
 

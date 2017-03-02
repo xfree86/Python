@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 
+# 注释符号#的用法
+
 # A comment, this is so you can read your program later.
 # 一个注释，这是为了你以后可以读你的代码。
 # Anything after the # is ignored by python.

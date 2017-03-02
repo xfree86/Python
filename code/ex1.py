@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 
+# 打印print输出的用法
+
 print "Hello World!"
 print "Hello Again"
 print "I like typing this."
